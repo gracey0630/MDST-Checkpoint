@@ -1,0 +1,7 @@
+Introduce yourself in this file!
+
+Hi! My name is Gahyun Yoon, but I tell people to call me Grace since my actual name is hard to pronounce. 
+I am a freshman in College of Engineering and am planning to major in Data Science!
+My fun fact is that I've lived in a house that was renovated by the tv show Fixer Upper :)
+
+Tell us your name, year, school, major (if you are undecided, write down the frontrunners), and a fun fact!
